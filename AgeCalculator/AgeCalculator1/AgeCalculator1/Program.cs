@@ -7,9 +7,9 @@ namespace AgeCalculator1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            WelcomeMessage.ShowWelcomeMessage();
             EnterBirthDate test1 = new EnterBirthDate();
             test1.InputBirthDate();
-            WelcomeMessage.ShowWelcomeMessage();
             Console.ReadLine();
         }
     }
