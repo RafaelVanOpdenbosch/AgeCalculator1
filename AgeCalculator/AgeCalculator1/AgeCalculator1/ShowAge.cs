@@ -4,8 +4,7 @@ using System.Text;
 
 namespace AgeCalculator1
 {
-    class PrintAge
+    class ShowAge
     {
-
     }
 }
