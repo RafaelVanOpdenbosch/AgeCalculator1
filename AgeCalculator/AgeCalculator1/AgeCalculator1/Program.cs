@@ -6,7 +6,7 @@ namespace AgeCalculator1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WelcomeMessage.ShowWelcomeMessage();
             Console.ReadLine();
         }
     }
